@@ -1,0 +1,21 @@
+html{
+    background-color:lightblue;
+}
+body {
+    width: 600px;
+    background-color: white;
+    padding: 50px;
+    margin: 0 auto;
+
+  }
+button{
+    background-color: lightblue;
+}
+.xx{
+    border-width: 2px;
+    border-style: solid;
+    border-color: orange;
+}
+h1{
+    color: lightblue;
+}
